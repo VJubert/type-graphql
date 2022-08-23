@@ -75,7 +75,8 @@
     "typedi": "^0.10.0",
     "typeorm": "^0.3.7",
     "typeorm-typedi-extensions": "^0.4.1",
-    "typescript": "~4.7.4"
+    "typescript": "~4.7.4",
+    "source-map": "^0.7.4"
   },
   "husky": {
     "hooks": {
